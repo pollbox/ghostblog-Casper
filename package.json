@@ -12,9 +12,9 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "pollbox",
+        "email": "pollbox@dingtalk.com",
+        "url": "https://ghostblog.cn"
     },
     "gpm": {
         "type": "theme",
