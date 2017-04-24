@@ -1,10 +1,9 @@
 # Casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Ghostblog默认主题 [Ghost](http://github.com/pollbox/ghostblog/).
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+
 
 ## Copyright & License
 
 Copyright (c) 2013-2017 Ghost Foundation - Released under the [MIT license](LICENSE).
-
